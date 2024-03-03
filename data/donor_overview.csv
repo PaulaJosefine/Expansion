@@ -1,0 +1,33 @@
+Donor Name,Donor Number,Age,Gender,Race,Expansion,Condition,CD4%,Baseline %Naive,Baseline %Effector,Baseline % Effector Memory,Baseline %Central Memory,1:10,1:50,DY,Ratio Doublings 1:50 vs 1:10
+June F 22,W04702206601000A,35.83,Female,White,December,Media removed,,,,,,0.94361,2.37851,2.52554,2.52066
+Sep M2 22,W04702233220500U,33.91,Male,White,December,Media removed,64.56,26.81,18.99,9.84,44.85,0.93635,1.48217,0.93047,1.58292
+Sep M 22,W04702233221300U,42.91,Male,White,December,Media removed,75.75,28.08,13.26,6.43,53.09,3.65343,4.91134,4.09677,1.34431
+Oct M 22,W04702236737800Y,28.45,Male,Undisclosed,December,Media removed,64.38,37.75,19.64,7.67,35.73,2.57023,3.02899,2.34746,1.17849
+May F 22,W04702215189400S,36.45,Female,White,January,Media removed,59.56,43.58,29.84,3.72,23.63,3.52687,4.68180,2.83215,1.32747
+Sep M2 22,W04702233220500U,33.91,Male,White,January,Media removed,64.56,26.81,18.99,9.84,44.85,2.52381,3.59301,2.97325,1.42365
+Sep M 22,W04702233221300U,42.91,Male,White,January,Media removed,75.75,28.08,13.26,6.43,53.09,2.44298,3.28096,4.08154,1.34301
+Oct M 22,W04702236737800Y,28.45,Male,Undisclosed,January,Media removed,64.38,37.75,19.64,7.67,35.73,2.77008,3.11425,2.72079,1.12425
+Nov F 22 -1,W04702240070100P,17.476,Female,Black,February,Media removed,65.55,26.11,16.32,30.25,27.32,2.55099,3.50256,3.07779,1.37302
+Jan F 23,W04702307451600F,52.68,Female,White,February,Media removed,67.27,36.19,12.19,31.57,20.06,2.31716,3.74336,3.34083,1.61549
+June M 22,W04702225213900I,57.72,Male,White,February,Media removed,84.38,49.15,25.67,11.86,13.33,1.58546,3.68822,3.42600,2.32628
+Jan M 23,W04702307451100P,49.08,Male,American Alaskan,February,Media removed,71.7,44.92,19.57,18.64,16.87,2.69588,3.39861,3.36001,1.26067
+Nov F 22 -1,W04702240070100P,17.476,Female,Black,March,Media removed,65.55,26.11,16.32,30.25,27.32,2.79964,3.97486,3.76663,1.41978
+Jan F 23,W04702307451600F,52.68,Female,White,March,Media removed,67.27,36.19,12.19,31.57,20.06,1.46125,1.72440,2.32043,1.18008
+June M 22,W04702225213900I,57.72,Male,White,March,Media removed,84.38,49.15,25.67,11.86,13.33,2.73769,3.58171,4.48029,1.30830
+Jan M 23,W04702307451100P,49.08,Male,American Alaskan,March,Media removed,71.7,44.92,19.57,18.64,16.87,3.75293,4.84701,4.99075,1.29153
+Nov F 22 - 1,W04702240070100P,17.476,Female,Black,May,Media added,65.55,26.11,16.32,30.25,27.32,4.54888,6.80743,4.57682,1.49651
+Jan F 23,W04702307451600F,52.68,Female,White,May,Media added,67.27,36.19,12.19,31.57,20.06,5.26132,7.20814,4.07445,1.37003
+June M 22,W04702225213900I,57.72,Male,White,May,Media added,84.38,49.15,25.67,11.86,13.33,6.37240,7.32869,3.49643,1.15007
+Jan M 23,W04702307451100P,49.08,Male,American Alaskan,May,Media added,71.7,44.92,19.57,18.64,16.87,5.31240,7.14103,5.09269,1.34422
+Nov F 22 - B,W04702225213900I,58.83,Female,White,July 2023,Labeling study,44.655,39.41107644,8.346333853,30.59672387,21.64586583,1.53057,4.44358,3.94384,2.90323
+Nov F 22 -1,W04702240070100P,17.476,Female,Black,August 2023,Labeling study,62.825,32.26,7.81,37.24,22.63,3.52240,6.25541,5.98391,1.77589
+HC5M,W047023331014006,34,Male,Undisclosed,November 2023,Labeling study,66.7,48.24,3.13,28.25,19.41,4.69045,6.80408,6.16450,1.45062
+HC5M,W047023331014006,34,Male,Undisclosed,December 2023,Labeling study,66.7,48.24,3.13,28.25,19.41,4.00131,5.74489,5.70992,1.43575
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+* = (they labeled as female on delivery but upon second checking they said it was actually male),,,,,,,,,,,,,,,
